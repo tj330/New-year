@@ -1,6 +1,6 @@
 var typed = new Typed(".type-anim", { 
   strings: ["Hello!!!", "TJ",
-  "Wishing you a Happy New Year", "May God bless you more in 2024", "Make 2024 a different experience!","Thank you😊"],
+  "Wishing you a Happy New Year", "May God bless you more in this year", "Make 2024 a great year!" ,"Thank you😊"],
     
   typeSpeed: 150, 
   backSpeed: 80, 
